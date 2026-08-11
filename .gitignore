@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+.pytest_cache/
+
+# VS Code
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+config.bat
+node_modules
